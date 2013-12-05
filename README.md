@@ -1,4 +1,4 @@
-system-snapshot
+System Snapshot
 ===============
 
-System Snapshot tool to enable snapshotting and rollback of a RHEL6 system
+* system-snapshot: Utility to create filesystem snapshots, and then merge or discard them.
